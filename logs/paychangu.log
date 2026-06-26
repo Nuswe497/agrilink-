@@ -1,0 +1,1609 @@
+[2026-01-29 20:30:59] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_9BF6905DAB5D_1769715059",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-01-29 20:31:05] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 20:31:05] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 20:32:08] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_EB2EEBCEED1F_1769715128",
+    "amount": 100,
+    "email": "alinuswemwhaimba5@gmail.com"
+}
+------------------------------------------------------------
+[2026-01-29 20:32:13] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 20:32:13] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 20:32:37] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_97DE60892CCE_1769715157",
+    "amount": 100,
+    "email": "alinuswemwhaimba5@gmail.com"
+}
+------------------------------------------------------------
+[2026-01-29 20:32:44] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 20:32:44] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 21:06:41] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_F9F94B07EFB1_1769717201",
+    "amount": 100,
+    "email": "alinuswemwhaimba5@gmail.com"
+}
+------------------------------------------------------------
+[2026-01-29 21:06:53] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 21:06:53] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 23:09:17] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_99A1686B5F40_1769724557",
+    "amount": 100,
+    "email": "alinuswemwhaimba5@gmail.com"
+}
+------------------------------------------------------------
+[2026-01-29 23:09:21] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-29 23:09:21] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-30 07:11:20] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_15245C08F152_1769753480",
+    "amount": 100,
+    "email": "alinuswemwhaimba5@gmail.com"
+}
+------------------------------------------------------------
+[2026-01-30 07:11:30] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-01-30 07:11:30] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-01 20:44:27] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_BE9ED94E77F7_1769975067",
+    "amount": 100,
+    "email": "alinuswemwhaimba5@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-01 20:44:48] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-01 20:44:48] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-01 21:06:33] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_3B95CEF549D5_1769976393",
+    "amount": 100,
+    "email": "alinuswemwhaimba5@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-01 21:06:39] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-01 21:06:39] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 20:18:49] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_2BC426AF8E3D_1770146329",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-03 20:18:56] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 20:18:56] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 21:19:34] Paychangu raw response
+{
+    "http_code": 405,
+    "response": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\" \/>\n    <meta name=\"robots\" content=\"noindex,nofollow,noarchive\" \/>\n    <title>An Error Occurred: Method Not Allowed<\/title>\n    <link rel=\"icon\" href=\"data:image\/svg+xml,<svg xmlns=%22http:\/\/www.w3.org\/2000\/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>\u274c<\/text><\/svg>\" \/>\n    <style>body { background-color: #fff; color: #222; font: 16px\/1.5 -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif; margin: 0; }\n.container { margin: 30px; max-width: 600px; }\nh1 { color: #dc3545; font-size: 24px; }\nh2 { font-size: 18px; }<\/style>\n<\/head>\n<body>\n<div class=\"container\">\n    <h1>Oops! An Error Occurred<\/h1>\n    <h2>The server returned a \"405 Method Not Allowed\".<\/h2>\n\n    <p>\n        Something is broken. Please let us know what you were doing when this error occurred.\n        We will fix it as soon as possible. Sorry for any inconvenience caused.\n    <\/p>\n<\/div>\n<\/body>\n<\/html>"
+}
+------------------------------------------------------------
+[2026-02-03 21:27:49] Paychangu raw response
+{
+    "http_code": 405,
+    "response": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\" \/>\n    <meta name=\"robots\" content=\"noindex,nofollow,noarchive\" \/>\n    <title>An Error Occurred: Method Not Allowed<\/title>\n    <link rel=\"icon\" href=\"data:image\/svg+xml,<svg xmlns=%22http:\/\/www.w3.org\/2000\/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>\u274c<\/text><\/svg>\" \/>\n    <style>body { background-color: #fff; color: #222; font: 16px\/1.5 -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif; margin: 0; }\n.container { margin: 30px; max-width: 600px; }\nh1 { color: #dc3545; font-size: 24px; }\nh2 { font-size: 18px; }<\/style>\n<\/head>\n<body>\n<div class=\"container\">\n    <h1>Oops! An Error Occurred<\/h1>\n    <h2>The server returned a \"405 Method Not Allowed\".<\/h2>\n\n    <p>\n        Something is broken. Please let us know what you were doing when this error occurred.\n        We will fix it as soon as possible. Sorry for any inconvenience caused.\n    <\/p>\n<\/div>\n<\/body>\n<\/html>"
+}
+------------------------------------------------------------
+[2026-02-03 21:46:09] Paychangu raw response
+{
+    "http_code": 405,
+    "response": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\" \/>\n    <meta name=\"robots\" content=\"noindex,nofollow,noarchive\" \/>\n    <title>An Error Occurred: Method Not Allowed<\/title>\n    <link rel=\"icon\" href=\"data:image\/svg+xml,<svg xmlns=%22http:\/\/www.w3.org\/2000\/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>\u274c<\/text><\/svg>\" \/>\n    <style>body { background-color: #fff; color: #222; font: 16px\/1.5 -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif; margin: 0; }\n.container { margin: 30px; max-width: 600px; }\nh1 { color: #dc3545; font-size: 24px; }\nh2 { font-size: 18px; }<\/style>\n<\/head>\n<body>\n<div class=\"container\">\n    <h1>Oops! An Error Occurred<\/h1>\n    <h2>The server returned a \"405 Method Not Allowed\".<\/h2>\n\n    <p>\n        Something is broken. Please let us know what you were doing when this error occurred.\n        We will fix it as soon as possible. Sorry for any inconvenience caused.\n    <\/p>\n<\/div>\n<\/body>\n<\/html>"
+}
+------------------------------------------------------------
+[2026-02-03 21:48:27] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_DA205BD8D26C_1770151707",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-03 21:48:35] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 21:48:35] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 22:18:32] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_7C9D164A3BE4_1770153511",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-03 22:18:38] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 22:18:38] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 22:29:04] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_9DCBE543DA99_1770154144",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-03 22:29:12] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 22:29:12] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 22:56:27] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_3896CB0D352E_1770155786",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-03 22:56:38] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-03 22:56:38] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-04 17:47:26] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_F1D7F7911C94_1770223646",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-04 17:47:43] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-04 17:47:43] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-05 14:21:58] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_CE05DC3A196A_1770297718",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-05 14:22:14] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-05 14:22:14] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-08 15:41:34] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_56C171752965_1770561694",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-08 15:42:15] Paychangu API curl error
+{
+    "error": "Connection timed out after 40469 milliseconds"
+}
+------------------------------------------------------------
+[2026-02-08 15:57:50] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_C0951078B517_1770562670",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-08 15:57:58] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-08 15:57:58] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-09 23:32:54] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_5C951430BE9F_1770676374",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-09 23:33:14] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-09 23:33:14] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-09 23:42:42] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_CF4ABAF74DDD_1770676962",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-09 23:42:47] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-09 23:42:47] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-09 23:43:31] Creating Paychangu payment request
+{
+    "reference": "AGRILINK_0A07E223B205_1770677011",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-09 23:43:35] Paychangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-09 23:43:35] Paychangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-10 00:00:41] Creating PayChangu payment request
+{
+    "reference": "AGRILINK_9C760E04DE5F_1770678041",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-10 00:00:50] PayChangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-10 00:00:50] PayChangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-10 00:01:16] Creating PayChangu payment request
+{
+    "reference": "AGRILINK_E58E37FA6539_1770678076",
+    "amount": 100,
+    "email": "mwahimbaalinuswe@gmail.com"
+}
+------------------------------------------------------------
+[2026-02-10 00:01:21] PayChangu API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-10 00:01:21] PayChangu API failed
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-10 00:06:37] Creating PayChangu payment request
+{
+    "amount": 100,
+    "currency": "MWK",
+    "email": "mwahimbaalinuswe@gmail.com",
+    "first_name": "Alinuswe",
+    "last_name": "Mwahimba",
+    "phone_number": "+265982292944",
+    "reference": "AGRILINK_B5C682BBA46B_1770678397",
+    "redirect_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/payment_success.php",
+    "webhook_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/agriLink\/paychangu_webhook.php",
+    "customization[description]": "Livingstonia Bee Keeping Agrilink Cooperative Registration Fee",
+    "customization[logo]": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/logo.png"
+}
+------------------------------------------------------------
+[2026-02-10 00:06:43] API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-10 00:12:21] Creating PayChangu payment request
+{
+    "amount": 100,
+    "currency": "MWK",
+    "email": "mwahimbaalinuswe@gmail.com",
+    "first_name": "Alinuswe",
+    "last_name": "Mwahimba",
+    "phone_number": "+265982292944",
+    "reference": "AGRILINK_E69EE3BE88B9_1770678741",
+    "redirect_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/payment_success.php",
+    "webhook_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/agriLink\/paychangu_webhook.php",
+    "customization[description]": "Livingstonia Bee Keeping Agrilink Cooperative Registration Fee",
+    "customization[logo]": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/logo.png"
+}
+------------------------------------------------------------
+[2026-02-10 00:12:26] API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-10 00:15:48] Creating PayChangu payment request
+{
+    "amount": 100,
+    "currency": "MWK",
+    "email": "mwahimbaalinuswe@gmail.com",
+    "first_name": "Alinuswe",
+    "last_name": "Mwahimba",
+    "phone_number": "+265982292944",
+    "reference": "AGRILINK_B41F9995CEA1_1770678947",
+    "redirect_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/payment_success.php",
+    "webhook_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/agriLink\/paychangu_webhook.php",
+    "customization[description]": "Livingstonia Bee Keeping Agrilink Cooperative Registration Fee",
+    "customization[logo]": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/logo.png"
+}
+------------------------------------------------------------
+[2026-02-10 00:15:52] API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-10 00:20:21] Creating PayChangu payment request
+{
+    "amount": 100,
+    "currency": "MWK",
+    "email": "mwahimbaalinuswe@gmail.com",
+    "first_name": "Alinuswe",
+    "last_name": "Mwahimba",
+    "phone_number": "+265982292944",
+    "reference": "AGRILINK_00F9854DC5F0_1770679221",
+    "redirect_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/payment_success.php",
+    "webhook_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/AgriLink\/paychangu_webhook.php",
+    "customization[description]": "Livingstonia Bee Keeping Agrilink Cooperative Registration Fee",
+    "customization[logo]": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/logo.png"
+}
+------------------------------------------------------------
+[2026-02-10 00:20:25] API response
+{
+    "http_code": 405,
+    "response": null
+}
+------------------------------------------------------------
+[2026-02-17 13:21:56] Creating PayChangu payment request
+{
+    "amount": 100,
+    "currency": "MWK",
+    "email": "mwahimbaalinuswe@gmail.com",
+    "first_name": "Alinuswe",
+    "last_name": "Mwahimba",
+    "phone_number": "+265982292944",
+    "reference": "AGRILINK_DC25DA93F313_1771330916",
+    "redirect_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/payment_success.php",
+    "webhook_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/AgriLink\/paychangu_webhook.php",
+    "customization[description]": "Livingstonia Bee Keeping Agrilink Cooperative Registration Fee",
+    "customization[logo]": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/logo.png"
+}
+------------------------------------------------------------
+[2026-02-17 13:22:26] Curl error
+{
+    "error": "Connection timed out after 30022 milliseconds"
+}
+------------------------------------------------------------
+[2026-02-19 14:26:53] Creating PayChangu payment request
+{
+    "amount": 100,
+    "currency": "MWK",
+    "email": "mwahimbaalinuswe@gmail.com",
+    "first_name": "Alinuswe",
+    "last_name": "Mwahimba",
+    "phone_number": "+265982292944",
+    "reference": "AGRILINK_B1288EEEAB64_1771507613",
+    "redirect_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/payment_success.php",
+    "webhook_url": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/AgriLink\/paychangu_webhook.php",
+    "customization[description]": "Livingstonia Bee Keeping Agrilink Cooperative Registration Fee",
+    "customization[logo]": "https:\/\/6294516b8aefa0.lhr.life\/New_Agrilink\/logo.png"
+}
+------------------------------------------------------------
+[2026-02-19 14:26:53] Curl error
+{
+    "error": "Could not resolve host: api.paychangu.com"
+}
+------------------------------------------------------------
+[2026-04-06 10:21:49] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:21:49] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:21:52] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:21:52] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:21:55] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:21:55] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:21:58] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:21:58] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:01] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:01] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:03] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:03] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:06] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:06] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:09] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:09] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:12] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:12] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:17] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:17] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:20] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:20] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:22] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:22] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:25] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:25] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:27] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:27] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:30] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:30] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:32] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:32] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:35] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:35] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:37] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:37] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:40] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:40] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:42] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:42] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:45] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:45] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:48] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:48] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:51] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:51] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:54] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:54] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:22:57] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:22:57] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:00] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:00] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:03] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:03] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:06] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:06] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:09] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:09] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:11] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:11] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:17] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:17] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:19] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:19] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:22] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:22] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:24] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:24] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:27] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:27] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:23:30] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:23:30] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:24:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:24:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:25:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:25:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:26:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:26:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:27:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:27:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:28:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:28:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:29:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:29:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:30:16] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:30:16] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:31:14] Polling for tx_ref: AGRILINK-69d36d0d94021-203779
+[2026-04-06 10:31:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:40:33] Polling for tx_ref: AGRILINK-69d3716d914cf-723815
+[2026-04-06 10:40:33] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:40:36] Polling for tx_ref: AGRILINK-69d3716d914cf-723815
+[2026-04-06 10:40:36] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:40:39] Polling for tx_ref: AGRILINK-69d3716d914cf-723815
+[2026-04-06 10:40:39] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:40:52] Polling for tx_ref: AGRILINK-69d37187b2ad1-681562
+[2026-04-06 10:40:52] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:40:54] Polling for tx_ref: AGRILINK-69d37187b2ad1-681562
+[2026-04-06 10:40:54] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:10] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:10] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:13] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:13] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:16] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:17] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:20] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:20] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:22] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:22] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:25] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:25] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:28] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:28] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:30] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:30] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:33] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:33] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:36] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:36] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:38] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:38] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:41] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:41] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:44] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:44] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:46] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:46] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:50] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:50] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:52] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:52] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:55] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:55] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:41:58] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:41:58] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:01] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:01] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:04] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:04] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:06] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:06] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:09] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:09] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:11] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:11] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:14] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:16] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:16] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:18] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:18] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:21] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:21] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:24] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:24] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:27] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:27] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:29] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:29] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:32] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:32] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:35] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:35] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:42:37] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:42:37] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:43:14] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:43:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:43:40] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:43:40] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:43:42] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:43:42] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:43:45] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:43:45] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:43:48] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:43:48] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:43:50] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:43:50] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:00] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:00] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:03] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:03] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:05] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:05] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:08] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:08] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:11] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:11] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:13] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:13] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:16] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:16] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:20] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:20] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:23] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:23] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:26] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:26] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:30] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:30] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:33] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:33] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:36] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:36] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:38] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:38] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:41] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:41] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:43] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:43] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:46] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:46] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:49] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:49] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:51] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:51] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:54] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:54] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:56] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:56] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:44:59] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:44:59] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:02] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:02] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:05] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:05] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:08] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:08] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:10] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:10] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:13] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:13] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:15] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:15] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:18] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:18] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:20] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:20] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:23] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:23] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:25] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:25] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:28] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:28] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:45:31] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:45:31] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:46:16] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:46:16] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:47:14] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:47:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:48:14] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:48:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:49:14] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:49:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:50:14] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:50:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:51:14] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:51:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:52:14] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:52:14] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 
+[2026-04-06 10:53:15] Polling for tx_ref: AGRILINK-69d3719e82934-722709
+[2026-04-06 10:53:15] PayChangu API response: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <link 

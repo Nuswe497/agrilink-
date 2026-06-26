@@ -1,0 +1,217 @@
+:root {
+  --primary:        #2a9d8f;
+  --primary-dark:   #247b73;
+  --primary-light:  #42b7a8;
+  --primary-glow:   rgba(42, 157, 143, 0.18);
+
+  --accent:         #f4a261;
+  --accent-hover:   #e89c4f;
+  --accent-glow:    rgba(244, 162, 97, 0.25);
+
+  --bg-1:           #fffbe6;
+  --bg-2:           #fef6d3;
+
+  --glass-bg:       rgba(255, 255, 255, 0.75);
+  --glass-border:   rgba(255, 255, 255, 0.85);
+
+  --text:           #1e293b;
+  --text-muted:     #56677a;
+  --text-light:     #8899aa;
+
+  --card-shadow:    0 8px 32px rgba(42, 157, 143, 0.08);
+  --hover-shadow:   0 20px 50px rgba(42, 157, 143, 0.16);
+  --accent-shadow:  0 8px 30px rgba(244, 162, 97, 0.3);
+
+  --radius-sm:  8px;
+  --radius-md:  16px;
+  --radius-lg:  24px;
+  --radius-xl:  50px;
+}
+
+#welcome {
+  text-align: center;
+  padding: 80px 40px;
+}
+#welcome h1 {
+  font-size: 2.2rem;
+  color: #2a9d8f;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+#welcome p {
+  font-size: 1.2rem;
+  color: #555;
+  max-width: 800px;
+  margin: 0 auto 40px;
+}
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.actions .btn {
+  padding: 12px 20px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+.actions .btn {
+  background: #2a9d8f;
+  color: white;
+}
+.actions .btn:hover { background: #247b73; }
+.actions .btn-secondary {
+  background: #f4a261;
+  color: white;
+}
+.actions .btn-secondary:hover { background: #e38b3a; }
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background: linear-gradient(135deg, var(--bg-1), var(--bg-2));
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-top: 70px;
+}
+
+/* Navbar */
+.navbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 1000;
+  background: #2a9d8f !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  transition: box-shadow 0.3s ease;
+}
+.nav-inner {
+  max-width: 1380px;
+  margin: 0 auto;
+  padding: 0 2.5rem;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  text-decoration: none;
+}
+.logo-icon-wrap {
+  width: 38px; height: 38px;
+  background: rgba(255,255,255,0.18);
+  border-radius: 10px;
+  display: flex; align-items: center; justify-content: center;
+  border: 1px solid rgba(255,255,255,0.25);
+}
+.logo-icon-wrap i { color: #fff; font-size: 1.05rem; }
+.logo-text {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: -0.3px;
+}
+.logo-text span { color: var(--accent); }
+
+.role-switch {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.role-switch label {
+  color: rgba(255,255,255,0.9);
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+.role-switch select {
+  padding: 8px 15px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  font-weight: 600;
+  font-family: inherit;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.role-switch select:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+.role-switch select option {
+  background: var(--primary);
+  color: white;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.nav-right a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.15rem;
+  opacity: 0.8;
+  transition: all 0.3s ease;
+}
+.nav-right a:hover {
+  opacity: 1;
+  color: var(--accent);
+  transform: translateY(-2px);
+}
+
+/* Main content */
+main {
+  flex-grow: 1;
+  padding: 30px;
+}
+.panel { display: none; }
+.panel.active { display: block; }
+.panel h2 {
+  color: #2a9d8f;
+  border-bottom: 2px solid #f4a261;
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+}
+
+/* Grid layout */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+.card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 20px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+.card h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #2a9d8f;
+  border-bottom: 2px solid #f4a261;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #2a9d8f;
+  color: white;
+}
